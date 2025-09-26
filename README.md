@@ -24,7 +24,6 @@ The repository is organized into three main directories:
 
    - This will generate the **weighted graph** and **update binaries** required for running the algorithms.
    - Ensure that the **original graph binary** and **update binaries** are ready before proceeding.
-````
 
 2. **Run CUDA Implementations**
 
@@ -44,7 +43,7 @@ The repository is organized into three main directories:
 
 ---
 
-## ✅ Citation
+## Citation
 
 If you use this repository or datasets in your work, please cite our paper:
 

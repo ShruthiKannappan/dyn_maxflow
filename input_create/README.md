@@ -5,7 +5,7 @@ The steps below describe how to generate weighted graphs, binary input files, an
 
 ---
 
-## 📂 Directory Structure
+## Directory Structure
 
 We use the following structure to store the inputs under `data/`:
 
